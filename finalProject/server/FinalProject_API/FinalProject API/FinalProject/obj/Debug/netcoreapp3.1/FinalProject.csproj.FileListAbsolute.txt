@@ -1,0 +1,229 @@
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\appsettings.json
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.exe
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.csprojAssemblyReference.cache
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.AssemblyInfoInputs.cache
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.AssemblyInfo.cs
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.RazorTargetAssemblyInfo.cache
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\staticwebassets\FinalProject.StaticWebAssets.Manifest.cache
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\staticwebassets\FinalProject.StaticWebAssets.xml
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\AutoMapper.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.csproj.CopyComplete
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\NLog.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.deps.json
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.runtimeconfig.json
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.runtimeconfig.dev.json
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.pdb
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.pdb
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.genruntimeconfig.cache
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.BL.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.DL.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.Entities.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.BL.pdb
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.DL.pdb
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.Entities.pdb
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.csproj.CoreCompileInputs.cache
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.MvcApplicationPartsAssemblyInfo.cs
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.MvcApplicationPartsAssemblyInfo.cache
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\appsettings.json
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.exe
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.deps.json
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.runtimeconfig.json
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.runtimeconfig.dev.json
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.pdb
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\AutoMapper.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\NLog.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.BL.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.DL.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.Entities.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.BL.pdb
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.DL.pdb
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.Entities.pdb
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.csprojAssemblyReference.cache
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.AssemblyInfoInputs.cache
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.AssemblyInfo.cs
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.csproj.CoreCompileInputs.cache
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.MvcApplicationPartsAssemblyInfo.cache
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.RazorTargetAssemblyInfo.cache
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.csproj.CopyComplete
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\obj\Debug\netcoreapp3.1\staticwebassets\FinalProject.StaticWebAssets.Manifest.cache
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\obj\Debug\netcoreapp3.1\staticwebassets\FinalProject.StaticWebAssets.xml
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.pdb
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.genruntimeconfig.cache
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\MailKit.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\MimeKit.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\NETCore.MailKit.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\EmailService.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\EmailService.pdb
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.MvcApplicationPartsAssemblyInfo.cs
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.exe
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.deps.json
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.runtimeconfig.json
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.runtimeconfig.dev.json
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.pdb
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\NETCore.MailKit.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\NLog.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\EmailService.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.BL.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.DL.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.Entities.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\EmailService.pdb
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.BL.pdb
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.DL.pdb
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\bin\Debug\netcoreapp3.1\FinalProject.Entities.pdb
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.csprojAssemblyReference.cache
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.csproj.CoreCompileInputs.cache
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.MvcApplicationPartsAssemblyInfo.cs
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.MvcApplicationPartsAssemblyInfo.cache
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.AssemblyInfoInputs.cache
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.AssemblyInfo.cs
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.RazorTargetAssemblyInfo.cache
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.csproj.CopyComplete
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\obj\Debug\netcoreapp3.1\staticwebassets\FinalProject.StaticWebAssets.Manifest.cache
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\obj\Debug\netcoreapp3.1\staticwebassets\FinalProject.StaticWebAssets.xml
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.pdb
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject\obj\Debug\netcoreapp3.1\FinalProject.genruntimeconfig.cache

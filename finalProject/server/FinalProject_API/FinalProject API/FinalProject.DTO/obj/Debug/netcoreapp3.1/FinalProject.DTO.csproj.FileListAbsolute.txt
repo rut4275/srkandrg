@@ -1,0 +1,27 @@
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject.DTO\bin\Debug\netcoreapp3.1\FinalProject.DTO.deps.json
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject.DTO\bin\Debug\netcoreapp3.1\FinalProject.DTO.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject.DTO\bin\Debug\netcoreapp3.1\FinalProject.DTO.pdb
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject.DTO\obj\Debug\netcoreapp3.1\FinalProject.DTO.csprojAssemblyReference.cache
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject.DTO\obj\Debug\netcoreapp3.1\FinalProject.DTO.AssemblyInfoInputs.cache
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject.DTO\obj\Debug\netcoreapp3.1\FinalProject.DTO.AssemblyInfo.cs
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject.DTO\obj\Debug\netcoreapp3.1\FinalProject.DTO.csproj.CoreCompileInputs.cache
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject.DTO\obj\Debug\netcoreapp3.1\FinalProject.DTO.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject.DTO\obj\Debug\netcoreapp3.1\FinalProject.DTO.pdb
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject.DTO\bin\Debug\netcoreapp3.1\FinalProject.DTO.deps.json
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject.DTO\bin\Debug\netcoreapp3.1\FinalProject.DTO.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject.DTO\bin\Debug\netcoreapp3.1\FinalProject.DTO.pdb
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject.DTO\obj\Debug\netcoreapp3.1\FinalProject.DTO.csprojAssemblyReference.cache
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject.DTO\obj\Debug\netcoreapp3.1\FinalProject.DTO.AssemblyInfoInputs.cache
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject.DTO\obj\Debug\netcoreapp3.1\FinalProject.DTO.AssemblyInfo.cs
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject.DTO\obj\Debug\netcoreapp3.1\FinalProject.DTO.csproj.CoreCompileInputs.cache
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject.DTO\obj\Debug\netcoreapp3.1\FinalProject.DTO.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject.DTO\obj\Debug\netcoreapp3.1\FinalProject.DTO.pdb
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject.DTO\bin\Debug\netcoreapp3.1\FinalProject.DTO.deps.json
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject.DTO\bin\Debug\netcoreapp3.1\FinalProject.DTO.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject.DTO\bin\Debug\netcoreapp3.1\FinalProject.DTO.pdb
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject.DTO\obj\Debug\netcoreapp3.1\FinalProject.DTO.csprojAssemblyReference.cache
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject.DTO\obj\Debug\netcoreapp3.1\FinalProject.DTO.csproj.CoreCompileInputs.cache
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject.DTO\obj\Debug\netcoreapp3.1\FinalProject.DTO.AssemblyInfoInputs.cache
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject.DTO\obj\Debug\netcoreapp3.1\FinalProject.DTO.AssemblyInfo.cs
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject.DTO\obj\Debug\netcoreapp3.1\FinalProject.DTO.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject.DTO\obj\Debug\netcoreapp3.1\FinalProject.DTO.pdb

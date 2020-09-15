@@ -1,0 +1,27 @@
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject.Entities\bin\Debug\netcoreapp3.1\FinalProject.Entities.deps.json
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject.Entities\bin\Debug\netcoreapp3.1\FinalProject.Entities.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject.Entities\bin\Debug\netcoreapp3.1\FinalProject.Entities.pdb
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject.Entities\obj\Debug\netcoreapp3.1\FinalProject.Entities.csprojAssemblyReference.cache
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject.Entities\obj\Debug\netcoreapp3.1\FinalProject.Entities.AssemblyInfoInputs.cache
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject.Entities\obj\Debug\netcoreapp3.1\FinalProject.Entities.AssemblyInfo.cs
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject.Entities\obj\Debug\netcoreapp3.1\FinalProject.Entities.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject.Entities\obj\Debug\netcoreapp3.1\FinalProject.Entities.pdb
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject.Entities\obj\Debug\netcoreapp3.1\FinalProject.Entities.csproj.CoreCompileInputs.cache
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject.Entities\bin\Debug\netcoreapp3.1\FinalProject.Entities.deps.json
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject.Entities\bin\Debug\netcoreapp3.1\FinalProject.Entities.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject.Entities\bin\Debug\netcoreapp3.1\FinalProject.Entities.pdb
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject.Entities\obj\Debug\netcoreapp3.1\FinalProject.Entities.csprojAssemblyReference.cache
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject.Entities\obj\Debug\netcoreapp3.1\FinalProject.Entities.AssemblyInfoInputs.cache
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject.Entities\obj\Debug\netcoreapp3.1\FinalProject.Entities.AssemblyInfo.cs
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject.Entities\obj\Debug\netcoreapp3.1\FinalProject.Entities.csproj.CoreCompileInputs.cache
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject.Entities\obj\Debug\netcoreapp3.1\FinalProject.Entities.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject.Entities\obj\Debug\netcoreapp3.1\FinalProject.Entities.pdb
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject.Entities\bin\Debug\netcoreapp3.1\FinalProject.Entities.deps.json
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject.Entities\bin\Debug\netcoreapp3.1\FinalProject.Entities.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject.Entities\bin\Debug\netcoreapp3.1\FinalProject.Entities.pdb
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject.Entities\obj\Debug\netcoreapp3.1\FinalProject.Entities.csprojAssemblyReference.cache
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject.Entities\obj\Debug\netcoreapp3.1\FinalProject.Entities.csproj.CoreCompileInputs.cache
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject.Entities\obj\Debug\netcoreapp3.1\FinalProject.Entities.AssemblyInfoInputs.cache
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject.Entities\obj\Debug\netcoreapp3.1\FinalProject.Entities.AssemblyInfo.cs
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject.Entities\obj\Debug\netcoreapp3.1\FinalProject.Entities.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject.Entities\obj\Debug\netcoreapp3.1\FinalProject.Entities.pdb

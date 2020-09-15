@@ -1,0 +1,42 @@
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject.BL\bin\Debug\netcoreapp3.1\FinalProject.BL.deps.json
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject.BL\bin\Debug\netcoreapp3.1\FinalProject.BL.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject.BL\bin\Debug\netcoreapp3.1\FinalProject.BL.pdb
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject.BL\obj\Debug\netcoreapp3.1\FinalProject.BL.csprojAssemblyReference.cache
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject.BL\obj\Debug\netcoreapp3.1\FinalProject.BL.AssemblyInfoInputs.cache
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject.BL\obj\Debug\netcoreapp3.1\FinalProject.BL.AssemblyInfo.cs
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject.BL\obj\Debug\netcoreapp3.1\FinalProject.BL.csproj.CoreCompileInputs.cache
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject.BL\obj\Debug\netcoreapp3.1\FinalProject.BL.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject.BL\obj\Debug\netcoreapp3.1\FinalProject.BL.pdb
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject.BL\bin\Debug\netcoreapp3.1\FinalProject.DL.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject.BL\bin\Debug\netcoreapp3.1\FinalProject.Entities.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject.BL\bin\Debug\netcoreapp3.1\FinalProject.DL.pdb
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject.BL\bin\Debug\netcoreapp3.1\FinalProject.Entities.pdb
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject\FinalProject.BL\obj\Debug\netcoreapp3.1\FinalProject.BL.csproj.CopyComplete
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject.BL\bin\Debug\netcoreapp3.1\FinalProject.BL.deps.json
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject.BL\bin\Debug\netcoreapp3.1\FinalProject.BL.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject.BL\bin\Debug\netcoreapp3.1\FinalProject.BL.pdb
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject.BL\bin\Debug\netcoreapp3.1\FinalProject.DL.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject.BL\bin\Debug\netcoreapp3.1\FinalProject.Entities.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject.BL\bin\Debug\netcoreapp3.1\FinalProject.DL.pdb
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject.BL\bin\Debug\netcoreapp3.1\FinalProject.Entities.pdb
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject.BL\obj\Debug\netcoreapp3.1\FinalProject.BL.csprojAssemblyReference.cache
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject.BL\obj\Debug\netcoreapp3.1\FinalProject.BL.AssemblyInfoInputs.cache
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject.BL\obj\Debug\netcoreapp3.1\FinalProject.BL.AssemblyInfo.cs
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject.BL\obj\Debug\netcoreapp3.1\FinalProject.BL.csproj.CoreCompileInputs.cache
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject.BL\obj\Debug\netcoreapp3.1\FinalProject.BL.csproj.CopyComplete
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject.BL\obj\Debug\netcoreapp3.1\FinalProject.BL.dll
+d:\Users\User\Desktop\שירה רות\פרויקט גמר\FinalProject API\FinalProject.BL\obj\Debug\netcoreapp3.1\FinalProject.BL.pdb
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject.BL\bin\Debug\netcoreapp3.1\FinalProject.BL.deps.json
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject.BL\bin\Debug\netcoreapp3.1\FinalProject.BL.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject.BL\bin\Debug\netcoreapp3.1\FinalProject.BL.pdb
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject.BL\bin\Debug\netcoreapp3.1\FinalProject.DL.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject.BL\bin\Debug\netcoreapp3.1\FinalProject.Entities.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject.BL\bin\Debug\netcoreapp3.1\FinalProject.DL.pdb
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject.BL\bin\Debug\netcoreapp3.1\FinalProject.Entities.pdb
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject.BL\obj\Debug\netcoreapp3.1\FinalProject.BL.csprojAssemblyReference.cache
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject.BL\obj\Debug\netcoreapp3.1\FinalProject.BL.csproj.CoreCompileInputs.cache
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject.BL\obj\Debug\netcoreapp3.1\FinalProject.BL.AssemblyInfoInputs.cache
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject.BL\obj\Debug\netcoreapp3.1\FinalProject.BL.AssemblyInfo.cs
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject.BL\obj\Debug\netcoreapp3.1\FinalProject.BL.csproj.CopyComplete
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject.BL\obj\Debug\netcoreapp3.1\FinalProject.BL.dll
+C:\ruti\FinalProject\server\FinalProject_API\FinalProject API\FinalProject.BL\obj\Debug\netcoreapp3.1\FinalProject.BL.pdb
